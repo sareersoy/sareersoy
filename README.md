@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sarenazersoy@gmail.com**
 
