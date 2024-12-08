@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sare!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareersoy&label=Profile%20views&color=0e75b6&style=flat" alt="sareersoy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarebayraktutan" target="blank"><img src="https://img.shields.io/twitter/follow/sarebayraktutan?logo=twitter&style=for-the-badge" alt="sarebayraktutan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sarebayraktutan" target="blank"><img src="https://img.shields.io/twitter/follow/sarebayraktutan?logo=twitter&style=for-the-badge" alt="ssareersoy" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarenersoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarenersoy" height="30" width="40" /></a>
-<a href="https://instagram.com/sareersoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sareersoy" height="30" width="40" /></a>
+<a href="https://twitter.com/sarenersoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssareersoy" height="30" width="40" /></a>
+<a href="https://instagram.com/sareersoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssareersoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
